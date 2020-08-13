@@ -29,3 +29,11 @@
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 	exit;
 }
+
+$options = array(
+	'aio-contact-settings',
+	'aio-contact-items'
+);
+foreach($options as $option) {
+	delete_option( $option );
+}
