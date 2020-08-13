@@ -75,7 +75,7 @@ class Aio_Contact_Lite_Public {
 
 		wp_enqueue_style( 'animate.css', plugins_url( $this->plugin_name ) . '/vendor/animate/animate.min.css', array(), $this->version, 'all' );
 		wp_enqueue_style( 'fontawesome-free', plugins_url( $this->plugin_name ) . '/vendor/fontawesome-free/all.min.css', array(), $this->version, 'all' );
-		wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/aio-contact-lite-public.css', array(), $this->version, 'all' );
+		wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/aio-contact-lite-public.min.css', array(), $this->version, 'all' );
 
 	}
 
@@ -98,7 +98,7 @@ class Aio_Contact_Lite_Public {
 		 * class.
 		 */
 
-		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/aio-contact-lite-public.js', array( 'jquery' ), $this->version, false );
+		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/aio-contact-lite-public.min.js', array( 'jquery' ), $this->version, false );
 
 	}
 
