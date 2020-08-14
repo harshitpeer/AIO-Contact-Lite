@@ -15,6 +15,8 @@ AIO Contact Lite is a FREE version of a popular plugin AIO Contact. You can add 
 
 AIO Contact Lite allows you to add multiple contact options to your website for your users. You can add WhatsApp, Telegram, Skype, Viber, etc. It has a very simple and unique Admin interface which makes it easy to use. You can also sort items with just drag-drop by grabbing the item title and moving the item to the desired position. It has a built-in font awesome icon picker which gives you access to over 1300 different fonts.
 
+Would you like the ability to add Agents, put Contact Forms and use Shortcodes? [Check out the Premium Version](https://h-p.co/AIO) which is available at an unbelievable price!
+
 == Installation ==
 
 = Option 1 =

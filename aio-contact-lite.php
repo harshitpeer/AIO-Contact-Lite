@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       AIO Contact Lite
  * Plugin URI:        https://wordpress.org/plugins/aio-contact-lite
- * Description:       A lite version of AIO Contact which is a all in one contact plugin with Contact Form 7 and Shortcode Integration
+ * Description:       A lite version of AIO Contact which provides ability to add multiple ways for your end user to contact you
  * Version:           1.0.0
  * Author:            Harshit Peer
  * Author URI:        https://profiles.wordpress.org/harshitpeer
